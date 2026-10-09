@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/danielcampos-consultor-vendas/">
     <img src="https://img.shields.io/badge/LinkedIn-2B2F33?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
-  <a href="https://instagram.com/camposdaniel87">
+  <a href="https://instagram.com/camposdev87">
     <img src="https://img.shields.io/badge/Instagram-2B2F33?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
 </p>
